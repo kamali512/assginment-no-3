@@ -1,0 +1,24 @@
+*{
+    background-color: skyblue;
+    color: white;
+}
+#head{
+    background-color: rgb(255, 59, 59);
+}
+.text, p{
+    background-color: greenyellow;
+}
+p>a{
+background-color: red;
+}
+#head2, h2{ 
+    background-color: hsl(275, 100%, 25%);
+}
+.list,ul,li,ol,li{
+    color: #0af1a4;
+    background-color: white;
+} 
+
+#footer{
+    text-align: center;
+}
